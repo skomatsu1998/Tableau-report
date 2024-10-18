@@ -1,0 +1,1 @@
+I have a personal interest in analyzing the distribution of dog and cat owners across the U.S., which I explored by linking this data with the average annual income for each state. The findings, which reveal some intriguing patterns, are documented in this Tableau report.
